@@ -1,0 +1,12 @@
+H:\P7 Programming\Chapter 4\Exercises\Ch4TaskRPS\Ch4TaskRPS\bin\Debug\Ch4TaskRPS.exe.config
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\bin\Debug\Ch4TaskRPS.exe.config
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\bin\Debug\Ch4TaskRPS.exe
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\bin\Debug\Ch4TaskRPS.pdb
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\bin\Debug\Ch4TaskRPS.xml
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\obj\Debug\Ch4TaskRPS.vbprojResolveAssemblyReference.cache
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\obj\Debug\Ch4TaskRPS.Form1.resources
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\obj\Debug\Ch4TaskRPS.Resources.resources
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\obj\Debug\Ch4TaskRPS.vbproj.GenerateResource.Cache
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\obj\Debug\Ch4TaskRPS.exe
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\obj\Debug\Ch4TaskRPS.xml
+C:\Users\olive\Documents\Visual Studio 2015\Projects\Ch4TaskRPS\Ch4TaskRPS\obj\Debug\Ch4TaskRPS.pdb
