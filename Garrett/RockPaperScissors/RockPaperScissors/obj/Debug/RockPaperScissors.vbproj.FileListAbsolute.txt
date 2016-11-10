@@ -1,0 +1,11 @@
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbprojResolveAssemblyReference.cache
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Resources.resources
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.GenerateResource.Cache
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.xml
+H:\P7 Programming (9th Grade)\Chapter 4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
